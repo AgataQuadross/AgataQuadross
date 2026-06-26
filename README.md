@@ -1,16 +1,24 @@
 <h2 align="center">Hi 👋! My name is Ágata and I'm a programmer in training from Brasil!</h2>
 
+
+<div align="center">
+  <p>This is a secondery acont so i can play a little with what i know and don't know</p>
+  <p>The thigs i'll put here will probably be realy amature and basic since this is not my serius acont</p>
+  <p>I'll try to keep up with both so i don't have much of a gap in my resume tough :p </p>
+</div>
+
 ---
 
 <div align="center">
-<a href="https://github.com/AgataQuadross">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgataQuadross&show_icons=true&theme=radical&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=default" alt="Estatísticas Completas"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataQuadross&theme=radical&hide_border=true&locale=pt-br&layout=compact&langs_count=8&exclude_repo=github-readme-stats"alt="Linguagens Mais Usadas"/>
-</a>
+  <img width="940" height="478" alt="mamakittybabykitty" src="https://github.com/user-attachments/assets/30df7450-9324-4130-b0d0-28cff1b0cca2" />
 </div>
 
+---
+
 <div align="center">
-<a href="https://github.com/AgataQuadross"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgataQuadros&theme=radical&hide_border=true&locale=pt-br"alt="Sequência de Commits"/></a>
+  <a href="https://github.com/AgataQuadross">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataQuadross&theme=radical&hide_border=true&locale=pt-br&layout=compact&langs_count=8&exclude_repo=github-readme-stats"alt="Linguagens Mais Usadas"/></a>
+  <a href="https://github.com/AgataQuadross"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgataQuadros&theme=radical&hide_border=true&locale=pt-br"alt="Sequência de Commits"/></a>
 </div>
 
 <div align="center">
@@ -18,11 +26,8 @@
 </div>
 
 ---
-<!-- <img align="right" height="150" src="https://i.pinimg.com/originals/99/fd/f2/99fdf2bb02695ae09712ac1c64483f9f.gif"  /> -->
 
-
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"/>
@@ -39,17 +44,20 @@
   <img width="12">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" height="30" alt="Logo JavaScript"/>
   <img width="12">
-
-
 </div>
 
 
 
-<div align="left">
-  <a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<div align="center">
   <a href="https://www.twitch.tv/saint_gaia_"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://discord.gg/7ccYNMHb"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://www.linkedin.com/in/%C3%A1gata-quadros-4276232b9" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
+---
+
+<div align="center">
+  <img width="935" height="523" alt="kittygirl" src="https://github.com/user-attachments/assets/61049f3c-aceb-4ce8-ae1d-23ff18655fe8" />
 </div>
 
 ---
